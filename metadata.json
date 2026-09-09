@@ -1,0 +1,7 @@
+{
+  "name": "Statistical Portfolio",
+  "description": "Best-in-class mobile app for tracking the Nepal Stock Exchange with real-time-feeling market data, synced watchlist, and full portfolio tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
